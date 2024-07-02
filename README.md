@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Finlay-Neal-05
-- 👀 I’m interested in creativitiy; cinematography and film photography, Working out, hiking and climbing (v2 at my gym). 
-- 🌱 I’m currently learning full stack!
+- 👀 I’m interested in cinematography, gaming, tinkering, Working out, hiking and climbing (v2 at my gym). 
+- 🌱 I’m currently learning SQL and C#!
 - 📫 Send me a message on discord! (finlay_neal). 
 
 <!---
