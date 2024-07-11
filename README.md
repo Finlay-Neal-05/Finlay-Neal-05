@@ -8,11 +8,17 @@
   I enjoy working in a full stack environment, though I have had more fun in the front end. I want to learn machine learning as well as some more advanced game dev!
 
   my tech stack:
-    -javascript / typescript
-    -python
-    -react.js
-    -express.js / multer.js
-    -sqlite / knex.js
+  
+  -javascript / typescript
+  
+  -python
+  
+  -react.js
+  
+  -express.js / multer.js
+  
+  -sqlite / knex.js
+  
 
 Connect with me on LinkedIn: www.linkedin.com/in/finlay-neal-61b352317
 
